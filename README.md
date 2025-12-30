@@ -116,15 +116,10 @@ Minha paixão reside na interseção entre Engenharia de Software sólida e as n
 <br/>
 <br/>
 
-
-
-
-
-
 ### 🎓 Formação Acadêmica
 - **Pós-graduação em Inteligência Artificial** – Faculdade Líbano (Cursando) 🤖
-- **Pós-graduação em Tecnologias para Web** (Concluído)
-- **Bacharelado em Ciências da Computação** (Opcional)
+- **Pós-graduação em Tecnologias para Web** 
+- **Bacharelado em Ciências da Computação** 
 
 ---
 
