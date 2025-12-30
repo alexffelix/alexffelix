@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Texto Apresentação
+<img width="512" height="512" alt="digital-native" src="https://github.com/user-attachments/assets/b74685f6-5890-480b-a9a6-26c4a05856bc" />
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
