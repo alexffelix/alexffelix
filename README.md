@@ -1,6 +1,6 @@
 
 
-# <img width="50" height="50" alt="digital-native" src="https://github.com/user-attachments/assets/b74685f6-5890-480b-a9a6-26c4a05856bc" /> Alex François Felix! 
+# <img width="50" height="50" alt="digital-native" src="https://github.com/user-attachments/assets/b74685f6-5890-480b-a9a6-26c4a05856bc" /> Alex F Felix! 
 <br>
 
 ##  **`FullStack Developer`**
@@ -146,7 +146,7 @@ Minha paixão reside na interseção entre Engenharia de Software sólida e as n
 
 
    <a href="https://wa.me/5534997827712" target="_blank"> 
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 34 99782-7712"/> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 34 99782-7712" target="_blank"/> 
    </a>
    <a href="https://t.me/alexffelix" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="AlexFFelix" target="_blank">
@@ -154,11 +154,10 @@ Minha paixão reside na interseção entre Engenharia de Software sólida e as n
    <a href="https://instagram.com/alexffelix.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="alexffelix.dev" target="_blank">
    </a>
-   <a href="https://www.linkedin.com/in/raphaelvserafim" target="_blank">
+   <a href="https://www.linkedin.com/in/alexffelix" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="AlexFFelix"
     target="_blank">
    </a>  
-
    <a href="https://www.youtube.com/@alexffelixdev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" title="@alexffelixdev" target="_blank">
    </a> 
